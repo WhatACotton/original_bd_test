@@ -1,0 +1,13 @@
+synth_tmp/
+post_route/
+.Xil/
+.ip_user_files/
+.gen/
+.srcs/
+workspace/
+dist/
+.metadata
+RemoteSystemsTempFiles/
+.analytics
+*.log
+*.jou
