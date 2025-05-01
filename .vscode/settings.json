@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.elf": "plist",
+        "platform.h": "c"
+    }
+}
